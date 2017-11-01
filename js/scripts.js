@@ -4,7 +4,11 @@ function Player(gamePiece){
 var playerOne = new Player("X");
 var playerTwo = new Player("O");
 
-
+function Board(x,y){
+  this.xCoordinate = x
+  this.yCoordinate = y
+}
+var board = new Board();
 
 testPlayer.mark(); // returns "X"
 
