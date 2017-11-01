@@ -1,15 +1,7 @@
-table{
-  border: 1px Solid Black;
-}
-tr{
-  border: 1px Solid Black;
-}
-td{
+
+.sq{
   border: 1px Solid Black;
   width: 200px;
   height: 200px;
   text-align: center;
-}
-th{
-  border: 1px Solid Black;
 }
