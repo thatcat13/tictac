@@ -1,10 +1,5 @@
-table{
-  border: 1px Solid Black;
-}
-tr{
-  border: 1px Solid Black;
-}
-td{
+
+.sq{
   border: 1px Solid Black;
   width: 200px;
   height: 200px;
@@ -17,6 +12,8 @@ td{
    cursor:pointer;
    background: -moz-linear-gradient(top, #ffffff, #D1E3E9);
    text-align:center;
+   height: 250px;
+   width: 250px;
   }
 
  td:hover{
